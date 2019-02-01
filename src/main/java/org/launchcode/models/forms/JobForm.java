@@ -70,7 +70,7 @@ public class JobForm {
         this.employerId = employerId;
     }
 
-    public int getLocationIdId() {
+    public int getLocationId() {
         return locationId;
     }
 
